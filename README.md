@@ -63,7 +63,7 @@ DeepTruth is trained and evaluated on a combination of **real and synthetic face
 
 Clone the repository or download the raw files:
 ```bash
-git clone https://github.com/nikipatil281/Deepfake-Image-Detection.git
+git clone https://github.com/ajiteshkanumuru/Deepfake_Image_Classification.git
 cd Deepfake-Image-Detection
 ```
 
