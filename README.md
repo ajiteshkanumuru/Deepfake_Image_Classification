@@ -45,7 +45,7 @@ DeepTruth is trained and evaluated on a combination of **real and synthetic face
 - **Generated Faces from Online Sources**  
   - Additional AI-generated face images sourced from:  ThisPersonDoesNotExist  
 
-## Features
+## ✨Features
 
 - **Excellent Generalization** across unseen DeepFake types and datasets  
   - No fully pre-trained deep learning model was used  
@@ -113,10 +113,10 @@ All required packages are listed in `requirements.txt`. Core packages include:
 ## 📬 Contact  
 For questions, collaborations, or issues, reach out to:
 
-|                 | **Nikita Patil**                                        | **Ajitesh K**                                               |
+|                 | **Ajitesh K**                                        | **Nikita Patil**                                               |
 |-----------------|---------------------------------------------------------|-------------------------------------------------------------|
-| 📧 Email        | [nikipatil281@gmail.com](mailto:nikipatil281@gmail.com) | [ajiteshkanumuru394@gmail.com](mailto:ajiteshkanumuru394@gmail.com) |
-| 🔗 GitHub       | [nikipatil281](https://github.com/nikipatil281)         | [Ajitesh](https://github.com/ajiteshkanumuru)                 |
-| 🔗 LinkedIn     | [LinkedIn](https://www.linkedin.com/in/nikita-patil-niki) | [LinkedIn](https://www.linkedin.com/in/ajitesh-k394/) |
+| 📧 Email        | [ajiteshkanumuru394@gmail.com](mailto:ajiteshkanumuru394@gmail.com) | [nikipatil281@gmail.com](mailto:nikipatil281@gmail.com) |
+| 🔗 GitHub       | [Ajitesh](https://github.com/ajiteshkanumuru)         | [nikipatil281](https://github.com/nikipatil281)                |
+| 🔗 LinkedIn     | [LinkedIn](www.linkedin.com/in/ajitesh-k394) | [LinkedIn](https://www.linkedin.com/in/nikita-patil-niki) |
 
 ---
