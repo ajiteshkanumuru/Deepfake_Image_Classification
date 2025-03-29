@@ -117,6 +117,6 @@ For questions, collaborations, or issues, reach out to:
 |-----------------|---------------------------------------------------------|-------------------------------------------------------------|
 | 📧 Email        | [ajiteshkanumuru394@gmail.com](mailto:ajiteshkanumuru394@gmail.com) | [nikipatil281@gmail.com](mailto:nikipatil281@gmail.com) |
 | 🔗 GitHub       | [Ajitesh](https://github.com/ajiteshkanumuru)         | [nikipatil281](https://github.com/nikipatil281)                |
-| 🔗 LinkedIn     | [LinkedIn](www.linkedin.com/in/ajitesh-k394) | [LinkedIn](https://www.linkedin.com/in/nikita-patil-niki) |
+| 🔗 LinkedIn     | [LinkedIn](https://www.linkedin.com/in/ajitesh-k394) | [LinkedIn](https://www.linkedin.com/in/nikita-patil-niki) |
 
 ---
