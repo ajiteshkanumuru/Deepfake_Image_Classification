@@ -86,7 +86,7 @@ First step:
 To train the model from scratch:
 - Open and run the Jupyter notebook: `Deepfake_Classification_code.ipynb`
 - Make sure the dataset paths are correctly set inside the notebook.
-- Make sure the `DESIRED PATH TO MODEL` is replaced with the actual path the trained model should be saved
+- Make sure the `PATH TO MODEL` is replaced with the actual path the trained model should be saved
 - You’ll see training progress, accuracy score and losses.
 - The trained model will be saved automatically (as a `.pth` file).
 
