@@ -110,6 +110,7 @@ All required packages are listed in `requirements.txt`. Core packages include:
 - scikit-learn
 - opencv-python
 - IPython
+- pillow
 
 ## 📬 Contact  
 For questions, collaborations, or issues, reach out to:
