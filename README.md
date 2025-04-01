@@ -97,6 +97,7 @@ To test our pretrained model:
 - Upload an image file (real or fake) by providing the path of the image in the notebook - Where ever `PATH TO INPUT IMAGE` is mentioned, add the image path
 - Make sure the model path (`1.8L_deepfake_detector.pth`) is correctly set inside the notebook.
 - The notebook will load the saved model and display whether the image is real or fake.
+- To get the performance metrics look for `PATH TO MODEL` and `PATH TO TEST DATASET` and replace it with your desired paths.
 ---
 
 ## 🧰 Dependencies  
