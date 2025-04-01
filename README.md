@@ -84,7 +84,7 @@ pip install -r requirements.txt
 First step:
 - clone the git repo Real-ESRGAN that is used for upscaling - run `git clone https://github.com/xinntao/Real-ESRGAN.git` in the terminal
 To train the model from scratch:
-- Open and run the Jupyter notebook: `notebooks/train_model.ipynb`
+- Open and run the Jupyter notebook: `Deepfake_Classification_code.ipynb`
 - Make sure the dataset paths are correctly set inside the notebook.
 - Make sure the `DESIRED PATH TO MODEL` is replaced with the actual path the trained model should be saved
 - You’ll see training progress, accuracy score and losses.
@@ -93,9 +93,9 @@ To train the model from scratch:
 ### 🧪 Testing with Pretrained Model
 
 To test our pretrained model:
-- Load the notebook: `notebooks/Predict_real_or_fake.ipynb`
+- Load the notebook: `Loading_and_Testing_Model.ipynb`
 - Upload an image file (real or fake) by providing the path of the image in the notebook - Where ever `PATH TO INPUT IMAGE` is mentioned, add the image path
-- Make sure the model path (`model/1.8L_deepfake_detector.pth`) is correctly set inside the notebook.
+- Make sure the model path (`1.8L_deepfake_detector.pth`) is correctly set inside the notebook.
 - The notebook will load the saved model and display whether the image is real or fake.
 ---
 
